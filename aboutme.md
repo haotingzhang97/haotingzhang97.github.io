@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Haoting Zhang, a first year PhD student under the HDR UK-Turing Wellcome PhD Programme in Health Data Science, currently based at University of Cambridge. Previously, I attended the University of Oxford for my undergraduate study in Mathematics and Statistics, before studying for a Master’s degree in Machine Learning at UCL. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Through my education, I have developed interest in applying Machine Learning to healthcare. In particular, I am interested in Deep Generative and Probabilistic Models. I believe they have the potential to be utilised in healthcare because they provide routes to inserting prior knowledge, interpreting results and estimating uncertainty compared to their deterministic counterparts. However, many gaps remain to be filled. For example, in electronic health records, which is one of my current research interests, we have data with significant heterogeneity and missingness. It is also important to have interpretability, safety and privacy when machine learning is applied to these data. I am generally interested in tackling these challenges.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Outside of research, I enjoy reading and jogging. I am also a fan of motorsport, especially Formula One (F1) and World Rally Championship (WRC). I occasionally drive go karts in a casual manner.
