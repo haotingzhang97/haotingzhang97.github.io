@@ -41,12 +41,12 @@ round-avatar: true
 social-network-links:
   email: "hz381@cam.ac.uk"
 #  facebook: deanattali
-  github: https://github.com/haotingzhang97
+  github: "github.com/haotingzhang97"
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/haotingzhang97
+  linkedin: "www.linkedin.com/in/haotingzhang97"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "haotingzhang97.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
